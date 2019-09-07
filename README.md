@@ -1,20 +1,13 @@
-### 东北林业大学图书馆书包柜预约系统 
-
+#### 组织架构图
 ![Image text](https://github.com/JiankunDai/cabinet/blob/master/%E4%B9%A6%E5%8C%85%E6%9F%9C%E6%97%B6%E5%BA%8F%E5%9B%BE.png)
 
 ### 开发工具
+| IntelliJ IDEA 2019.1 | Postman | Navicat Premium 12 | Apache JMeter 5.1.1 |
+| :-------------: |:-------------:| :-------------:| :-------------:|:-------------:| :-------------:| :-------------:|
 
-IntelliJ IDEA 2019.1
-Postman
-Navicat Premium 12
-Apache JMeter 5.1.1
 
 
 ### 开发环境
-
-表头|条目一|条目二
-:---:|:---:|:---:
-项目|项目一|项目二
 
 | JDK | Maven| Mysql  | SpringBoot | redis | RabbitMQ| Mybatis |
 | :-------------: |:-------------:| :-------------:| :-------------:|:-------------:| :-------------:| :-------------:|
@@ -33,7 +26,11 @@ Apache JMeter 5.1.1
 
 2、优化如下：
 
-#### 组织架构图
+
 
 
 ### 开发者信息
+
+
+### Acknowledge
+此项目参与东北林业大学学生创新创业基金项目，感谢计算机学院和陈岩导师对我们的支持和帮助！
