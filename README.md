@@ -1,5 +1,7 @@
 ### 东北林业大学图书馆书包柜预约系统 
 
+![Image text](https://github.com/JiankunDai/cabinet/blob/master/%E4%B9%A6%E5%8C%85%E6%9F%9C%E6%97%B6%E5%BA%8F%E5%9B%BE.png)
+
 ### 开发工具
 
 IntelliJ IDEA 2019.1
