@@ -83,7 +83,7 @@ public class BookCaseService  {
         return rtv;
     }
 
-    public Map<String, Object> arrange(Student student, String position) {
+    public synchronized Map<String, Object> arrange(Student student, String position) {
         Map<String, Object> rtv = new HashMap<>();
         BookCase bookCase = null;
         List<BookCase> bookCases = bookCaseMapper.selectByLocation(position);
