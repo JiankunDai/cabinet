@@ -1,5 +1,5 @@
 # 组织架构图
-![Image text](https://github.com/JiankunDai/cabinet/blob/master/%E4%B9%A6%E5%8C%85%E6%9F%9C%E6%97%B6%E5%BA%8F%E5%9B%BE.png)
+![Image text](https://github.com/JiankunDai/cabinet/blob/master/预约系统时序图.jpg)
 
 # 开发工具
 | IntelliJ IDEA 2019.1 | Postman | Navicat Premium 12 | Apache JMeter 5.1.1 |
