@@ -1,4 +1,4 @@
-# 组织架构图
+# 业务流程时序图
 ![Image text](https://github.com/JiankunDai/cabinet/blob/master/预约系统时序图.jpg)
 
 # 开发工具
